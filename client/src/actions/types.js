@@ -1,0 +1,8 @@
+export const AUTH_ERROR = 'AUTH_ERROR'
+export const AUTH_USER = 'AUTH_USER'
+export const GET_USER_PROFILE = 'GET_USER_PROFILE'
+export const UNAUTH_USER = 'UNAUTH_USER'
+export const CREATE_TICKET = 'CREATE_TICKET'
+export const DELETE_TICKET = 'DELETE_TICKET'
+export const LIST_TICKETS = 'LIST_TICKETS'
+export const UPDATE_TICKET = 'UPDATE_TICKET'
